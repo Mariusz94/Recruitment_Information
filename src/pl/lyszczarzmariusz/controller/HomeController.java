@@ -34,6 +34,15 @@ public class HomeController {
     private Button addButton;
 
     public HomeController() {
+        System.out.println("Rozpoczęcie wyjątku");
+        try{
+            System.out.println("Jestem w ciele try przed throw");
+            throw new IOException();
+        }catch (Exception e){
+            System.out.println("Błąd złapany");
+        }finally {
+            System.out.println("Zakończenie wyjątku");
+        }
     }
 
     @FXML
