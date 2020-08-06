@@ -34,7 +34,6 @@ public class HomeController {
     private Button addButton;
 
     public HomeController() {
-        System.out.println("Coś innego");
     }
 
     @FXML

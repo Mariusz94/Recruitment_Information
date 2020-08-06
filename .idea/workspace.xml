@@ -5,10 +5,33 @@
       <artifact name="JavaFXApp" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="final commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/lyszczarzmariusz/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/lyszczarzmariusz/controller/HomeController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +92,11 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2.0" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
@@ -209,6 +237,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -223,16 +255,50 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
-      <workItem from="1596665726969" duration="22455000" />
+      <workItem from="1596665726969" duration="24073000" />
     </task>
+    <task id="LOCAL-00001" summary="final commit">
+      <created>1596729665100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596729665100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final commit">
+      <created>1596730985070</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596730985071</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1159" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1596666043220">
@@ -251,6 +317,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1159" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596666653168" />
+    <state x="445" y="88" key="CommitChangelistDialog2" timestamp="1596730983774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="445" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596730983774" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1596731086123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596731086123" />
     <state x="799" y="418" key="Github.ShareDialog" timestamp="1596719202214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -259,26 +333,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="589" y="218" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596719245968" />
-    <state width="1877" height="238" key="GridCell.Tab.0.bottom" timestamp="1596718876591">
+    <state width="1877" height="238" key="GridCell.Tab.0.bottom" timestamp="1596730672133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596718876591" />
-    <state width="1877" height="238" key="GridCell.Tab.0.center" timestamp="1596718876591">
+    <state width="1877" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596730672133" />
+    <state width="1877" height="238" key="GridCell.Tab.0.center" timestamp="1596730672133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="238" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596718876591" />
-    <state width="1877" height="238" key="GridCell.Tab.0.left" timestamp="1596718876591">
+    <state width="1877" height="238" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596730672133" />
+    <state width="1877" height="238" key="GridCell.Tab.0.left" timestamp="1596730672133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="238" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596718876591" />
-    <state width="1877" height="238" key="GridCell.Tab.0.right" timestamp="1596718876591">
+    <state width="1877" height="238" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596730672133" />
+    <state width="1877" height="238" key="GridCell.Tab.0.right" timestamp="1596730672133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="238" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596718876591" />
+    <state width="1877" height="238" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596730672133" />
     <state x="845" y="32" key="SettingsEditor" timestamp="1596713528285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="845" y="32" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596713528285" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596731008387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596731008387" />
     <state x="1288" y="340" key="extract.method.dialog" timestamp="1596712072827">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
